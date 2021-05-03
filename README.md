@@ -11,4 +11,4 @@ bot [linki](http://t.me/cov19bilgisibot)
 * **/vefat** *(Gün içerisindeki vefat rakamları)*
 * **/iyi** *(Gün içerisindeki iyileşen hasta rakamları)*
 
-*\*Aşı komutu bu zamana kadar yapılmış olan aşıların ortalaması alınıp,gün içerisinde ne kadar aşı yapılmış olabileceğini yansıtmaktadır, kesin bir veriye dayalı değildir, o gün içerisinde hiç aşı yapılmamış bile olabilir. (kafa karıştırmaması açısından bu özelliği çıkartmayı bile düşünüyorum, ama bakalım sizlerden nasıl feedback gelecek.)*
+*\*Aşı komutu bu zamana kadar yapılmış olan aşıların ortalaması alınıp,gün içerisinde ne kadar aşı yapılmış olabileceğini yansıtmaktadır, kesin bir veriye dayalı değildir, o gün içerisinde hiç aşı yapılmamış bile olabilir.
